@@ -1,0 +1,25 @@
+text,Unnamed: 1,score,sentiment
+I love this phone,,0.6369,Positive
+This is the worst app ever,,-0.6249,Negative
+Amazing customer support,,0.7579,Positive
+I hate this update,,-0.5719,Negative
+Very happy with the service,,0.6115,Positive
+Not satisfied at all,,-0.3252,Negative
+This is okay,,0.2263,Positive
+Absolutely fantastic experience,,0.5984,Positive
+Terrible quality product,,-0.4767,Negative
+Highly recommend this,,0.4201,Positive
+Bad experience overall,,-0.5423,Negative
+Pretty decent performance,,0.4939,Positive
+Worst purchase ever,,-0.6249,Negative
+Loved it so much,,0.5994,Positive
+It could be better,,0.4404,Positive
+The product arrived as expected.,,0.0,Neutral
+It works fine for its purpose.,,0.2023,Positive
+The experience was average.,,0.0,Neutral
+Delivery was on time.,,0.0,Neutral
+The quality is okay.,,0.2263,Positive
+It meets basic requirements.,,0.0,Neutral
+Nothing special, but not bad either.,-0.3089,Negative
+Service was acceptable.,,0.3182,Positive
+It functions as described.,,0.0,Neutral
